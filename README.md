@@ -1,5 +1,5 @@
 # CRUD-operations-using-C-MYSQL
-CRUD operations using C++ &amp; MYSQL 
+ 
 
 
 C++ MySQL CRUD Console Application
@@ -107,3 +107,5 @@ The program will connect to MySQL and present a menu allowing you to perform the
 This example uses direct string concatenation to build SQL queries, which is susceptible to SQL Injection attacks.
 
 For production or secure applications, you MUST use prepared statements (mysql_stmt_init, mysql_stmt_prepare, etc.) to safely bind data and prevent injection vulnerabilities. This current structure is for demonstration purposes only.
+<img width="1475" height="760" alt="Screenshot 2025-11-08 000859" src="https://github.com/user-attachments/assets/fc76d4b2-6ebd-4ac0-aed3-b359d8c40aca" />
+
