@@ -1,2 +1,2 @@
-# CURD-operations-using-C-MYSQL-
-CURD operations using C++ &amp; MYSQL 
+# CRUD-operations-using-C-MYSQL-
+CRUD operations using C++ &amp; MYSQL 
